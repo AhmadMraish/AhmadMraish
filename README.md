@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmadMraish&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
