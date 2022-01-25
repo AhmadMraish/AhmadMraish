@@ -5,6 +5,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmadMraish&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+
 <!--
 **AhmadMraish/AhmadMraish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
