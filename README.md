@@ -32,8 +32,6 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadMraish&show_icons=true)
 
 <br />
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
 
 </a>
 <br />
