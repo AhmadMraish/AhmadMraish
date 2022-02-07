@@ -1,6 +1,8 @@
+<h1 align="center"> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmadMraish&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak align="center"](http://github-readme-streak-stats.herokuapp.com?user=AhmadMraish&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+</h1>
+ 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 [![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
