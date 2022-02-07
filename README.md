@@ -32,9 +32,12 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadMraish&show_icons=true)
 
 <br />
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
+<img align="center" alt="AhmadMraish's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/AhmadMraish">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AhmadMraish&layout=compact&theme=radical" />
+</a>
 <br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmadMraish&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
