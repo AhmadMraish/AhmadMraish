@@ -32,10 +32,7 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadMraish&show_icons=true)
 
 <br />
-
-</a>
 <br />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmadMraish&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br />
 
