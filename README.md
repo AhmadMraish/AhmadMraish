@@ -1,4 +1,4 @@
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 
 [![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
 
@@ -35,7 +35,8 @@ Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadMraish&show_icons=true)
 
 <br />
-
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+<br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmadMraish&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br />
